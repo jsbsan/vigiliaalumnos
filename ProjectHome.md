@@ -1,0 +1,2 @@
+Sistema configurable para varias situaciones de una habitación o clase. Se se emite demasiado ruido mostrará un mensaje personalizado y si no es admisible otro mensajes.
+Ademas se puede configurar para que emita un sonido o grabación y que ejecute un script de bash.
